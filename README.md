@@ -1,4 +1,7 @@
 # RaycastGame
+Was bored and followed a c++ and opengl tutorial on a raycaster
+
+[![Youtube Video](https://img.youtube.com/vi/gYRrGTC7GtA/0.jpg)](https://www.youtube.com/watch?v=gYRrGTC7GtA)
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
